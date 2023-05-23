@@ -1,12 +1,12 @@
 # morph2d
-*************************************************************************************
-Filename: morph2D.f90
-2-Dimensional Morphodynamic Model
-
-Written by Jongseok Cho and Peter A. Nelson
-Department of Civil and Environmental Engineering
-Colorado State University, Fort Collins, Colorado
-*************************************************************************************
+# *************************************************************************************
+# Filename: morph2D.f90
+# 2-Dimensional Morphodynamic Model
+# 
+# Written by Jongseok Cho and Peter A. Nelson
+# Department of Civil and Environmental Engineering
+# Colorado State University, Fort Collins, Colorado
+# *************************************************************************************
 Filename: P1505.mat
 Results from the simulation of bar formation in a straight flume.
 *************************************************************************************
