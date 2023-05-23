@@ -2,6 +2,6 @@
 
 2-Dimensional Morphodynamic Model
 
-Written by Jongseok Cho and Peter A. Nelson
-Department of Civil and Environmental Engineering
-Colorado State University, Fort Collins, Colorado
+Written by Jongseok Cho and Peter A. Nelson<br />
+Department of Civil and Environmental Engineering<br />
+Colorado State University, Fort Collins, Colorado<br />
