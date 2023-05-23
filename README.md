@@ -8,7 +8,7 @@ Colorado State University, Fort Collins, Colorado<br />
 <br />
 *************************************************************************************<br />
 Filename: P1505.mat<br />
-: Results from the simulation of bar formation in a straight flume.<br />
+<dd>Results from the simulation of bar formation in a straight flume.<br />
 *************************************************************************************<br />
 Filename: BRtopo.txt<br />
 Randomly abraded bedrock topography is used to simulate the mixed bedrock-alluvial channels. <br />
