@@ -6,10 +6,10 @@ Written by Jongseok Cho and Peter A. Nelson<br />
 Department of Civil and Environmental Engineering<br />
 Colorado State University, Fort Collins, Colorado<br />
 <br />
-*************************************************************************************<br />
+<br />
 Filename: P1505.mat<br />
-<dd>Results from the simulation of bar formation in a straight flume.</dd><br />
-*************************************************************************************<br />
+Results from the simulation of bar formation in a straight flume.<br />
+<br />
 Filename: BRtopo.txt<br />
 Randomly abraded bedrock topography is used to simulate the mixed bedrock-alluvial channels. <br />
 *************************************************************************************<br />
