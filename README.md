@@ -6,6 +6,7 @@ Written by Jongseok Cho and Peter A. Nelson<br />
 Department of Civil and Environmental Engineering<br />
 Colorado State University, Fort Collins, Colorado<br />
 <br />
+*************************************************************************************<br />
 Filename: P1505.mat<br />
 Results from the simulation of bar formation in a straight flume.<br />
 *************************************************************************************<br />
